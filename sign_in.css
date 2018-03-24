@@ -1,0 +1,64 @@
+body{
+	background: url(css/b1.png);
+	background-size: cover; 
+}
+
+
+footer h6{ 
+
+	color: red;
+	text-align: center;
+
+}
+.button{
+	
+	background-image: url(css/images/button.gif) ;
+	background-size: cover;
+	padding: 15px 15px 15px 15px;
+	padding-left: 10px;
+	
+}
+form{
+	padding-left: 600px;
+	padding-top: 500px;
+}
+#txt1{
+	
+	background: transparent;
+	background: url(css/images/username.gif);
+	background-size: cover; 
+	font-size: 32pt;
+}
+
+#pwd1{
+	width: 202px;
+	height: 56px;
+	background: transparent;
+	background: url(css/images/pwd.gif);
+	background-size: cover; 
+	font-size: 38pt;
+}
+a:hover{color: red;
+
+}
+#fgp
+{
+	padding-left: 200px;
+}
+}
+input:enabled{
+	background: white;
+	 
+	
+}
+
+
+#btn{
+	padding-left: 10px;
+}
+
+
+
+
+
+
