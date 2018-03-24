@@ -22,7 +22,6 @@ header{
 .table{
 	
 	display:table-row;
-	
 }
 .table label{
 	display:table-cell;
@@ -32,13 +31,4 @@ header{
 .table input{
 	display:table-cell;
 	padding:2px;
-	
-}
-.box{
-	width:60%;
-	display:inline-block;
-	margin-left:10%;
-	line-height:250%;
-	
-	
 }
